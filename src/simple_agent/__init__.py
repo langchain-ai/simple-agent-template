@@ -1,0 +1,1 @@
+"""Simple agent template package."""
